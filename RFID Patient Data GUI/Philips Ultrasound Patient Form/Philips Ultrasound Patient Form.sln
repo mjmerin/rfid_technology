@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Philips Ultrasound Patient Form", "Philips Ultrasound Patient Form\Philips Ultrasound Patient Form.csproj", "{B22E1B9B-9ACD-4D9F-A6DA-4BB91EC10F7D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Philips RFID Setup", "Philips RFID Setup\Philips RFID Setup.vdproj", "{1337057F-55C9-4155-BD26-8B8FD050F6D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B22E1B9B-9ACD-4D9F-A6DA-4BB91EC10F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22E1B9B-9ACD-4D9F-A6DA-4BB91EC10F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22E1B9B-9ACD-4D9F-A6DA-4BB91EC10F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22E1B9B-9ACD-4D9F-A6DA-4BB91EC10F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1337057F-55C9-4155-BD26-8B8FD050F6D4}.Debug|Any CPU.ActiveCfg = Debug
+		{1337057F-55C9-4155-BD26-8B8FD050F6D4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

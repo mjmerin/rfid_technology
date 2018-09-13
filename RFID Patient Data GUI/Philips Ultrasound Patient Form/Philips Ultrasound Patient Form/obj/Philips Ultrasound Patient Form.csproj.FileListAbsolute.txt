@@ -1,0 +1,87 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmMain.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe.config
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.exe
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.pdb
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\ResolveAssemblyReference.cache
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmMain.resources
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.Properties.Resources.resources
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.csproj.GenerateResource.Cache
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.pdb
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmComPort.resources
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe.config
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.exe
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\ResolveAssemblyReference.cache
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmComPort.resources
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmMain.resources
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.Properties.Resources.resources
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.csproj.GenerateResource.Cache
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.pdb
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe.config
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmComPort.resources
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmMain.resources
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.Properties.Resources.resources
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.csproj.GenerateResource.Cache
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\eceproject\Desktop\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe.config
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmComPort.resources
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmMain.resources
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.Properties.Resources.resources
+C:\Documents and Settings\eceproject\Desktop\New Folder (2)\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.csproj.GenerateResource.Cache
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe.config
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmComPort.resources
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmMain.resources
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.Properties.Resources.resources
+C:\Documents and Settings\eceproject\Desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.csproj.GenerateResource.Cache
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe.config
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmComPort.resources
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.frmMain.resources
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips_Ultrasound_Patient_Form.Properties.Resources.resources
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Debug\Philips Ultrasound Patient Form.csproj.GenerateResource.Cache
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Release\Philips Ultrasound Patient Form.exe.config
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Release\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Release\Philips Ultrasound Patient Form.pdb
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Release\Philips_Ultrasound_Patient_Form.frmComPort.resources
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Release\Philips_Ultrasound_Patient_Form.frmMain.resources
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Release\Philips_Ultrasound_Patient_Form.Properties.Resources.resources
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Release\Philips Ultrasound Patient Form.csproj.GenerateResource.Cache
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Release\Philips Ultrasound Patient Form.exe
+C:\Documents and Settings\All Users\Desktop\ece-desktop\Newest Patient Data Form\Philips Ultrasound Patient Form\Philips Ultrasound Patient Form\obj\Release\Philips Ultrasound Patient Form.pdb

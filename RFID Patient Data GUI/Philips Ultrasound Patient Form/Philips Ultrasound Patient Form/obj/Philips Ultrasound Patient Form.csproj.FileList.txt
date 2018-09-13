@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Philips_Ultrasound_Patient_Form.Properties.Resources.resources
+obj\Debug\Philips Ultrasound Patient Form.csproj.GenerateResource.Cache
+bin\Debug\Philips Ultrasound Patient Form.exe
+bin\Debug\Philips Ultrasound Patient Form.pdb
+obj\Debug\Philips_Ultrasound_Patient_Form.frmMain.resources
+obj\Debug\Philips Ultrasound Patient Form.exe
+obj\Debug\Philips Ultrasound Patient Form.pdb
+bin\Debug\Philips Ultrasound Patient Form.exe.config
+bin\Debug\ICSharpCode.SharpZipLib.dll
+obj\Debug\Philips_Ultrasound_Patient_Form.frmComPort.resources
